@@ -11,6 +11,12 @@ p{
 div{
     color: brown;
     background-color: bisque;
+    
+}
+h3{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blue;
 }
    
     
